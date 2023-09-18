@@ -1,0 +1,40 @@
+.frame {
+    width: 155px;
+    height: 290px;
+    border: 0px solid black;
+}
+
+.frame1 {
+    height: 30px;
+    border: 1px solid rgb(100, 124, 161);
+    background-color: rgb(95, 121, 164);
+}
+
+.frame2 {
+    height: 224px;
+    border: 1px solid rgb(144, 177, 182);
+    background-color: rgb(241, 248, 248);
+}
+
+.frame3 {
+    height: 30px;
+    border: 1px solid rgb(144, 177, 182);
+    background-color: rgb(241, 248, 248);
+}
+
+
+p {
+    color: blue;
+    margin-top: 0
+}
+
+label {
+    color: blue;
+
+}
+
+button {
+    margin-top: 6px;
+    font-size: 11px;
+    margin-left: 8px;
+}

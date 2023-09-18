@@ -1,0 +1,15 @@
+.a {
+    border: 0px solid black;
+    height: 600px;
+    width: 700px;
+    border-radius: 5px;
+}
+
+#create {
+    border: 1px solid black;
+    height: 270px;
+}
+
+#verify {
+    border: 1px solid black;
+}
